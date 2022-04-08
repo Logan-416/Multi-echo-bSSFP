@@ -1,2 +1,2 @@
-# Multi-echo bSSFP
-Sharing the sample data and codes of multi-echo bSSFP with a sequential phase-encoding order
+# Multi-echo balanced SSFP with a sequential phase-encoding order for functional MR imaging at 7T
+Sharing the sample data and codes
