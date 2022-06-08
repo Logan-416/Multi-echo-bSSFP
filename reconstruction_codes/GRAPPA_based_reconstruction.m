@@ -217,6 +217,5 @@ for seq = 3:size(all_sequence_dirs,1)
           multi_struct multi_RawData mask...
           kspace_sampled kspace_recon kspace_full kspace_data_all kspace_data kspace_acs_crop...
           kspace_acs input_all input Img_recon Acs_inv Acs 
-    close all
-    
+    close all   
 end
