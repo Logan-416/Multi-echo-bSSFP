@@ -3,3 +3,5 @@ We developed a 2D multi-echo passband balanced SSFP (bSSFP) sequence using an ec
 ![image](https://user-images.githubusercontent.com/72006682/172544033-8d79de8e-a3d0-4181-8a94-8b76b8e81852.png)
 
 This repository contains sample data and reconstruction codes for sequential multi-echo bSSFP (ETL = 3, in-plane resolution = 1x1 mm2).
+
+
