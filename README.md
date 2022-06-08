@@ -1,2 +1,3 @@
 # Multi-echo balanced SSFP with a sequential phase-encoding order for functional MR imaging at 7T
 As images of sequential multi-echo bSSFP exhibit multiple ghosts due to periodic k-space modulations, a GRAPPA-based reconstruction method was proposed to eliminate ghosting artifacts.
+![image](https://user-images.githubusercontent.com/72006682/172544033-8d79de8e-a3d0-4181-8a94-8b76b8e81852.png)
